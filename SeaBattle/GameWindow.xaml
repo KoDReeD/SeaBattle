@@ -1,0 +1,217 @@
+﻿<Window x:Class="SeaBattle.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeaBattle"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="DimGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Orientation="Vertical" 
+                    VerticalAlignment="Center" Margin="30">
+            <StackPanel Orientation="Horizontal" 
+                        Width="330" Height="30"
+                        Margin="30,0,0,0">
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">1
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">2
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">3
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">4
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">5
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">6
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">7
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">8
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">9
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">10
+                </TextBlock>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical" 
+                        Width="30" Height="300">
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">A
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">B
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">C
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">D
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">E
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">F
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">J
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">H
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">I
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">J
+                    </TextBlock>
+                </StackPanel>
+
+                <WrapPanel  
+                        Width="300" Height="300"
+                        Name="WP_Player1">
+                </WrapPanel>
+                
+            </StackPanel>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Orientation="Vertical" 
+                    VerticalAlignment="Center" Margin="30">
+            <StackPanel Orientation="Horizontal" 
+                        Width="330" Height="30"
+                        Margin="0,0,30,0">
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">1
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">2
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">3
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">4
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">5
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">6
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">7
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">8
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">9
+                </TextBlock>
+
+                <TextBlock Width="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">10
+                </TextBlock>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <WrapPanel  
+                        Width="300" Height="300"
+                        Name="WP_Player2">
+                </WrapPanel>
+                <StackPanel Orientation="Vertical" 
+                        Width="30" Height="300">
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">A
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">B
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">C
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">D
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">E
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">F
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">J
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">H
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">I
+                    </TextBlock>
+
+                    <TextBlock Height="30" Foreground="White" 
+                           FontSize="25" TextAlignment="Center">J
+                    </TextBlock>
+                </StackPanel>
+            
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

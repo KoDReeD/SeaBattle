@@ -1,0 +1,104 @@
+C:\Users\Class_Student\source\repos\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\Class_Student\source\repos\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\Class_Student\source\repos\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\App.g.cs
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\Class_Student\source\repos\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\Class_Student\Desktop\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\Class_Student\Desktop\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\Class_Student\Desktop\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\GameWindow.g.cs
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\App.g.cs
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\GameWindow.baml
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\Player1Window.g.cs
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\Player1Window.baml
+C:\Users\79522\Desktop\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\79522\Desktop\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\79522\Desktop\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\GameWindow.g.cs
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\Player1Window.g.cs
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\App.g.cs
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\GameWindow.baml
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\Player1Window.baml
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\Player2Window.g.cs
+C:\Users\Class_Student\Desktop\SeaBattle\obj\Debug\Player2Window.baml
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\GameWindow.g.cs
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\Player1Window.g.cs
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\Player2Window.g.cs
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\App.g.cs
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\GameWindow.baml
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\Player1Window.baml
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\Player2Window.baml
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\Class_Student\Desktop\использованный латех\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\Player2Window.g.cs
+C:\Users\79522\Desktop\SeaBattle\obj\Debug\Player2Window.baml
+D:\КОЛЛЕДЖ\SeaBattle\bin\Debug\SeaBattle.exe.config
+D:\КОЛЛЕДЖ\SeaBattle\bin\Debug\SeaBattle.exe
+D:\КОЛЛЕДЖ\SeaBattle\bin\Debug\SeaBattle.pdb
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\GameWindow.g.cs
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\MainWindow.g.cs
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\Player1Window.g.cs
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\Player2Window.g.cs
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\App.g.cs
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\GameWindow.baml
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\MainWindow.baml
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\Player1Window.baml
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\Player2Window.baml
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.g.resources
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.exe
+D:\КОЛЛЕДЖ\SeaBattle\obj\Debug\SeaBattle.pdb
